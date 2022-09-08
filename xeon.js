@@ -176,9 +176,9 @@ Time ⏰ =  ${xtime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/dMbcJwY/welcome-neon-sign-brick-wall-background-87059037.jpg'},
+    image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `❤NIPUNA_BOT❤`,
+footer: `˜”*°• blue lione •°*”˜`,
 buttons,
 headerType: 4
 }
@@ -205,7 +205,7 @@ Time ⏰ =  ${xeontime} `
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `❤NIPUNA_BOT❤`,
+    footer: `˜”*°• blue lione •°*”˜`,
     buttons,
     headerType: 4
     }
