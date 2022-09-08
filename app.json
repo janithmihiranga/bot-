@@ -1,8 +1,8 @@
 {
-  "name": "DarkNeroBot-MD",
+  "name": "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Kaveeshasithum/DARK-NERO-BOT",
-  "logo": "https://i.ibb.co/3snV3Zf/Whats-App-Image-2022-07-28-at-4-45-19-PM.png",
+  "repository": "https://github.com/Nipuna-apps/bot-",
+  "logo": "https://i.ibb.co/fdVNVby/337211b6aaa25af5dc698da9e41691a0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
